@@ -6,6 +6,11 @@
 //     }
 // }
 
-const arr= [5,2,1,7,9]
-const result = arr.filter(num=>num>5);
-console.log(result.length);
+// const arr= [5,2,1,7,9]
+// const result = arr.filter(num=>num>5);
+// console.log(result.length);
+
+
+// console.log([]===[]) //false
+// console.log([]==[]); // false Beacuse  objects and array are compared why refrence and  not by value
+
