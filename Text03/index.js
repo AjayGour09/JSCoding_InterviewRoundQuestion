@@ -9,3 +9,4 @@ function fibonacci(n){
 }
 
 fibonacci(5);
+fibonacci(8);
