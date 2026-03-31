@@ -59,6 +59,6 @@ const newStudent = {
 // console.log(newStudent.__proto__);
 
 
-
+console.log(newStudent.__proto__);
 
 
