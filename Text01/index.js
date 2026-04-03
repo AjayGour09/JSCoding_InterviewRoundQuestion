@@ -60,8 +60,8 @@ const newStudent = {
 
 
 console.log(newStudent.__proto__);
-console.log(2=2);
-console.log(3=5);
+console.log(2+2);
+console.log(3+5);
 
 
 
